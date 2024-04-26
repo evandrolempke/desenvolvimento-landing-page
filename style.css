@@ -1,0 +1,167 @@
+*{
+   
+    font-family: "inter";
+    margin: 0px;
+   
+}
+
+#titulo-principal{  
+
+margin: 80px;
+margin-left: -50px;
+margin-bottom: 20px;
+height: auto;
+
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 72px;
+
+
+
+}
+#paragrafo1{
+  margin-left: -50px; 
+  margin-bottom: -30px; 
+  
+
+
+
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+
+
+
+   
+}
+
+#menusuperior{
+    background-color: #303030;
+    color: white;
+   
+    margin: 0px;
+    padding: 100px; 
+
+
+
+
+
+
+   
+}
+
+#menuinformacional{
+ background: #F9F9F9;
+height: auto;
+color: black;
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+padding: 20px;
+
+
+
+
+}
+
+.titulomenuinformacional{
+
+    font-weight: bolder;
+    margin-left: 60px; 
+    font-size: 40px;  
+    margin: 80px;
+ 
+ 
+}
+
+.paragrafomenuinformacional{
+    margin-left: 00px;
+    font-size: 20px;
+    height: auto;
+    
+}
+
+#secaodepoimento{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+}
+
+#imagem{
+    margin: 130px -1000px 80px -100px; 
+    height: auto;
+  
+
+}
+
+#textoinformativo{
+    margin: 300px 0px 80px 300px;
+    font-size: 20px;
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    color: white;
+    
+
+  }
+
+  h3{
+    padding: 72px;
+    font-size: 30px;
+  }
+    
+input{
+    
+    width: 508px;
+    height: 72px;
+    background: #FFFFFF;
+    margin: 20px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 10px;
+   
+
+}
+button{
+   
+    width: 286px;
+    height: 74px;
+    background: #C07212;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    border: 0px;
+    border-radius: 10px;
+    margin-bottom: 150px;
+    margin-top: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
